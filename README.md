@@ -154,27 +154,27 @@ All module updates are committed to `main`, reviewed, and promoted to `productio
 > Screenshots show the live self-hosted Odoo.sh deployment. The platform, custom app icons, module dashboards, and pipeline views were all built and configured as part of this project.
 
 ### App Dashboard
-![OEH App Dashboard](screenshots/dashboard.png)
+![OEH App Dashboard](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
 *Custom Odoo.sh deployment showing all installed OEH modules with custom app icons*
 
 ### CRM Pipeline
-![CRM Pipeline View](screenshots/pipeline.png)
+![CRM Pipeline View](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
 *14-stage automated pipeline with conditional field logic and stage-based automation rules*
 
 ### Cleaning Trackers Module
-![Cleaning Trackers](screenshots/cleaning-trackers.png)
+![Cleaning Trackers](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
 *Custom module for monthly cleaning schedule management*
 
 ### Property Outreach Module
-![Property Outreach](screenshots/property-outreach.png)
+![Property Outreach](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
 *Homeowner outreach campaign tracking and property submission management*
 
 ### Guest Issues Module
-![Guest Issues](screenshots/guest-issues.png)
+![Guest Issues](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
 *Guest issue logging with escalation workflow*
 
 ### Move-Outs & Extensions Module
-![Move-Outs](screenshots/moveout-extensions.png)
+![Move-Outs](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
 *Move-out coordination and extension request tracking*
 
 ### Property Data Sheet (PDF Output)

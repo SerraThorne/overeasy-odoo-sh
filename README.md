@@ -159,8 +159,8 @@ All module updates are committed to `main`, reviewed, and promoted to `productio
 
 ### CRM Pipeline
 ![CRM Pipeline View](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Stage%201.jpg) 
-(https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Stage%202.jpg) 
-(https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Stage%203.jpg)
+![CRM Pipeline View](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Stage%202.jpg) 
+![CRM Pipeline View](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Stage%203.jpg) 
 *14-stage automated pipeline with conditional field logic and stage-based automation rules*
 
 ### Cleaning Trackers Module

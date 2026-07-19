@@ -158,7 +158,9 @@ All module updates are committed to `main`, reviewed, and promoted to `productio
 *Custom Odoo.sh deployment showing all installed OEH modules with custom app icons*
 
 ### CRM Pipeline
-![CRM Pipeline View](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
+![CRM Pipeline View](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Stage%201.jpg) 
+(https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Stage%202.jpg) 
+(https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Stage%203.jpg)
 *14-stage automated pipeline with conditional field logic and stage-based automation rules*
 
 ### Cleaning Trackers Module

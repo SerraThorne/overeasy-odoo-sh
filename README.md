@@ -164,27 +164,29 @@ All module updates are committed to `main`, reviewed, and promoted to `productio
 *14-stage automated pipeline with conditional field logic and stage-based automation rules*
 
 ### Cleaning Trackers Module
-![Cleaning Trackers](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
+![Cleaning Trackers](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Cleaning%20Tracker%20.jpg)
 *Custom module for monthly cleaning schedule management*
 
 ### Property Outreach Module
-![Property Outreach](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
+![Property Outreach](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Property%20OutReach%20.jpg)
 *Homeowner outreach campaign tracking and property submission management*
 
 ### Guest Issues Module
-![Guest Issues](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
+![Guest Issues](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Guest%20Issuews%20.jpg)
 *Guest issue logging with escalation workflow*
 
 ### Move-Outs & Extensions Module
-![Move-Outs](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
+![Move-Outs](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Move%20Out%20Tracker%20.jpg)
 *Move-out coordination and extension request tracking*
 
 ### Property Data Sheet (PDF Output)
-![PDS Report](screenshots/pds-report.png)
+![PDS Report](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/PDS.jpg)
 *QWeb-generated Property Data Sheet PDF for insurance claim submissions*
 
 ### Module Structure (GitHub)
-![Module Structure](screenshots/module-structure.png)
+![Module Structure](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Modules.webp)
+![Module Structure](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Modules%202.webp)
+![Module Structure](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Modules%203.webp)
 *Repository structure showing custom Python modules with models, views, and security layers*
 
 ---

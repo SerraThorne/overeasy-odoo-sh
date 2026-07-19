@@ -154,7 +154,7 @@ All module updates are committed to `main`, reviewed, and promoted to `productio
 > Screenshots show the live self-hosted Odoo.sh deployment. The platform, custom app icons, module dashboards, and pipeline views were all built and configured as part of this project.
 
 ### App Dashboard
-![OEH App Dashboard](https://github.com/SerraThorne/overeasy-odoo-sh/commit/2cc34d46af759c3162f3d9b8521dea3c715f4a46#r193004007)
+![OEH App Dashboard](https://github.com/SerraThorne/overeasy-odoo-sh/blob/main/Dashboard.jpg)
 *Custom Odoo.sh deployment showing all installed OEH modules with custom app icons*
 
 ### CRM Pipeline
